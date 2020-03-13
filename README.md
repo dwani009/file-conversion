@@ -2,6 +2,7 @@
 A program that can be invoked from the command line to convert files in the source tree, to files in the destination tree. 
 
 Consider following example,
+
 Source/
  +- sub1/
  |   +- sub1.1/
@@ -27,6 +28,7 @@ Source/
              `- 001.txt
  
 /output would be in the following structure/
+
 Dest/
  +- sub2.1/
  |   +- sub1_sub1.1_sub2.1.txt
