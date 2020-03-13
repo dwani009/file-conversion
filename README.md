@@ -4,6 +4,7 @@ A program that can be invoked from the command line to convert files in the sour
 Consider following example,
 
 Source/
+
  +- sub1/
  |   +- sub1.1/
  |   |  +- sub2.1/
@@ -30,6 +31,7 @@ Source/
 /output would be in the following structure/
 
 Dest/
+
  +- sub2.1/
  |   +- sub1_sub1.1_sub2.1.txt
  |   +- sub1_sub1.2_sub2.1.txt
