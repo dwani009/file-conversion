@@ -25,6 +25,7 @@ Source/
         |    `- 001.txt
         ` sub2.2/
              `- 001.txt
+ 
 /output would be in the following structure/
 Dest/
  +- sub2.1/
